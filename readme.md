@@ -1,17 +1,12 @@
 ## Most
-> **Most** people enjoy parties.<br>
-A maior parte das pessoas gosta de festas.
+- **Most** people enjoy parties. - *A maior parte das pessoas gosta de festas.*
 
 ## Many and A lot of
-> **Many** people like watching sports.<br>
-Muitas pessoas gostam de assistir esportes.
-
-> **A lot of** Canadians love watching ice hockey.<br>
-Muitos canadenses adoram assistir hóquei no gelo.
+- **Many** people like watching sports. - *Muitas pessoas gostam de assistir esportes.*
+- **A lot of** Canadians love watching ice hockey. - *Muitos canadenses adoram assistir hóquei no gelo.*
 
 ## Some
-> **Some** people enjoy playing the guitar.<br>
-Algumas pessoas gostam de tocar violão.
+- **Some** people enjoy playing the guitar. - *Algumas pessoas gostam de tocar violão.*
 
 # Sensação
 
@@ -70,17 +65,10 @@ WOMAN:  That's not good.
 ```
 
 ## In shape
-> She's in excellent shape.<br>
-Ela está em ótima forma.
-
-> I'm in good shape.<br>
-Eu estou em boa forma.
-
-> He's in bad shape.<br>
-Ele está fora de forma.
-
-> John's in terrible shape.<br>
-John está em péssima forma física.
+- She's in excellent shape. - *Ela está em ótima forma.*
+- I'm in good shape. - *Eu estou em boa forma.*
+- He's in bad shape. - *Ele está fora de forma.*
+- John's in terrible shape. - *John está em péssima forma física.*
 
 # Descrevendo sintomas
 - How are you feeling? - *Como você está se sentindo?*
