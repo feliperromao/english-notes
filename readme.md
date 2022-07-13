@@ -85,3 +85,30 @@ WOMAN:  That's not good.
 - I have a sore throat. - *Eu tenho dor de garganta.*
 - I have a sore arm. - *Eu tenho dor no braço.*
 - I have a stomachache.  - *Eu tenho dor de estômago.*
+
+# Expressando simpatia e dando conselho.
+- That's too bad. - *Que pena.*
+- Sorry to hear that. - *Sinto muito em ouvir isso.*
+- I'm so sorry. - *Sinto muito mesmo.*
+- Feel better soon. - *Melhoras.*
+- Drink lots of liquids. -*Beba bastante líquido.*
+- Get lots of sleep. - *Durma bastante.*
+- Take it easy.	- *Vá com calma.*
+- Take aspirin for your headache. - *Tome aspirina para sua dor de cabeça.*
+ ## should
+- You should drink lots of liquids. - *Você deveria beber bastante líquido.*
+- You should get lots of sleep. - *Você deveria dormir bastante.*
+- You should take it easy. - *Você deveria ir devagar.*
+- You should take aspirin for your headache. - *Você deveria tomar uma aspirina para sua dor de cabeça.*
+
+# Linguagem de telefone
+## Formal
+- ABC Industries. Mary Jacobs speaking. - *Indústrias ABC. Mary Jacobs falando.*
+- ABC Industries. This is Mary Jacobs. - *Indústrias ABC. Aqui é Mary Jacobs.*
+## Identifique-se
+- This is Bill Edwards. - *Aqui é Bill Edwards.*
+- Bill Edwards calling. - *Bill Edwards falando.*
+- This is Bill Edwards. **Can I speak to** Mary Jacobs? - *Aqui é Bill Edwards. Posso falar com Mary Jacobs?*
+- Just a minute, please. - *Só um minuto, por favor.*
+- Please leave a message after the tone. - *Por favor, deixe uma mensagem depois do toque.*
+- We are currently closed. Please call again. - *No momento estamos fechados. Por favor, ligue novamente.*
