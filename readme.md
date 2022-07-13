@@ -112,3 +112,33 @@ WOMAN:  That's not good.
 - Just a minute, please. - *Só um minuto, por favor.*
 - Please leave a message after the tone. - *Por favor, deixe uma mensagem depois do toque.*
 - We are currently closed. Please call again. - *No momento estamos fechados. Por favor, ligue novamente.*
+
+
+## Pedir e aceitar desculpas
+### sorry about
+- **Sorry about** work.
+- **Sorry about** your car.
+- **Sorry about** the meeting.
+
+> A: Can you come to the party?<br>
+> B: Sorry, but I'm sick.              
+> A: Don't worry about it. Feel better!
+
+- No problem.
+- Don't worry about it.
+- It's OK.
+
+### what
+- What's up? - *E aí?*
+- What's happening? - *O que está acontecendo?*
+- What's going on? - *O que está acontecendo?*
+
+> Not much. What's up with you? - *Nada demais. O que está acontecendo com você?*
+> I don't know. What's going on with you? - *Eu não sei. O que está acontecendo com você?*
+
+- What's wrong?	- *O que há de errado?*
+- What's the matter? - *Qual o problema?*
+- What's the problem? - *Qual o problema?*
+
+> Nothing. Don't worry about it. - *Nada. Não se preocupe com isso.*
+
