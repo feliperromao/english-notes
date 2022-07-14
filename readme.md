@@ -142,3 +142,30 @@ WOMAN:  That's not good.
 
 > Nothing. Don't worry about it. - *Nada. Não se preocupe com isso.*
 
+
+# Fazendo e respondendo a sugestões
+## How about e what about
+- What about a game of cards?
+- How about watching a movie?
+
+## Why don't we
+- Why don't we go to the swimming pool?
+- Why don't we go to a restaurant?
+
+## Let's
+- Let's go to the museum.
+- Let's go swimming.
+
+## Positivo
+- That's a good idea. 
+- Great idea!
+
+## Negativo
+- No, thanks.
+- Thanks, but I can't swim.
+- No, I don't think so.
+- No, I don't feel like it - *Não, não estou com vontade.*
+
+## Incerto
+- I don't know. - *Eu não sei.*
+- I'm not sure. - *Não tenho certeza.*
