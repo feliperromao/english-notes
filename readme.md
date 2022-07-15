@@ -179,3 +179,23 @@ WOMAN:  That's not good.
 
 > A: Excuse me, do you know where the train station is?<br>
 > B: Oh, yes. It's on Green Street. It's near the university.
+
+
+# Advérbios de sequência
+- **First**, take the bus to the subway station. **Second**, take the subway to the park. **Third**, walk to the museum.
+- **First**, take the bus. **Next**, take the subway. **Then** walk.
+- **First**, take the bus. **Then** take the subway. **Next**, walk.
+-
+
+
+```
+
+
+MAN: The department store is on Elm Street. It's near the park.
+WOMAN: how do I get there?
+MAN: First, take the number 17 bus to the subway station. Then take the subway to the park.
+WOMAN: OK.
+MAN: Next , walk across the park to the department store.
+WOMAN: Great. Thanks!
+MAN: No problem . 
+```
