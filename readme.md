@@ -169,3 +169,13 @@ WOMAN:  That's not good.
 ## Incerto
 - I don't know. - *Eu não sei.*
 - I'm not sure. - *Não tenho certeza.*
+
+
+# Where is...
+- Where is Central Park?
+- Do you know where Central Park is?
+- Excuse me, where is Central Park?
+- Pardon me, do you know where Central Park is?
+
+> A: Excuse me, do you know where the train station is?<br>
+> B: Oh, yes. It's on Green Street. It's near the university.
