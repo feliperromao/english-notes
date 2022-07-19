@@ -189,8 +189,6 @@ WOMAN:  That's not good.
 
 
 ```
-
-
 MAN: The department store is on Elm Street. It's near the park.
 WOMAN: how do I get there?
 MAN: First, take the number 17 bus to the subway station. Then take the subway to the park.
@@ -199,3 +197,15 @@ MAN: Next , walk across the park to the department store.
 WOMAN: Great. Thanks!
 MAN: No problem . 
 ```
+
+## Pedindo e dando informações de transporte
+### Perguntas
+- How do I get to the museum?     
+- How do I get there?
+
+### Respostas
+- You should go by bus.
+- You can get to the park by subway.
+- You can get there by subway
+- Take the bus. It's raining.
+- You can take the train to the beach.
