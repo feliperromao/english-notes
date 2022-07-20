@@ -185,7 +185,6 @@ WOMAN:  That's not good.
 - **First**, take the bus to the subway station. **Second**, take the subway to the park. **Third**, walk to the museum.
 - **First**, take the bus. **Next**, take the subway. **Then** walk.
 - **First**, take the bus. **Then** take the subway. **Next**, walk.
--
 
 
 ```
@@ -209,3 +208,14 @@ MAN: No problem .
 - You can get there by subway
 - Take the bus. It's raining.
 - You can take the train to the beach.
+
+
+## Locais em uma cidade
+- The library is **next to** the playground.
+- The bank is **on the corner of** Pine Street and First Street.
+- The bus stop is **in front of** the supermarket.
+- The post office is **between** the restaurant and the movie theater.
+- The pizza place is **behind** the library.
+- The bookstore is **across** the street.
+- The bookstore is **across the street from** the restaurant.
+
